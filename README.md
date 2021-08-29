@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working as Software Devlopment Engineer at HyScale.
 - 🌱 I’m currently learning stuff related to Data Science.
-- 💬 Ask me about Java, Design Patterns or any tech related stuff.
+- 💬 Ask me about Java, Docker, Kubernetes & Design Patterns or any tech related stuff.
 - 😄 Will update more soon!
 
 [![Twitter follow @nishanth4128](https://img.shields.io/twitter/follow/nishanth4128?style=social)](https://twitter.com/nishanth4128) &nbsp;
