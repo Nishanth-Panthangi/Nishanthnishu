@@ -1,22 +1,22 @@
 ## Hey there, I'm Nishanth Panthangi! 👋
 
 <a href="https://twitter.com/nishanth4128">
-  <img alt="Nishanth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="Nishanth's Twitter" width="24px" src="https://static.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a> &nbsp;
 <a href="https://linkedin.com/in/pnishanth">
-  <img alt="Nishanth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Nishanth's Linkdein" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a> &nbsp;
-<a href="https://stackoverflow.com/users/4837440/rajeev-kumar-singh">
-  <img alt="Nishanth's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+<a href="https://stackoverflow.com/users/6969861/nishanth-panthangi">
+  <img alt="Nishanth's StackOverflow" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a> &nbsp;
-<a href="https://www.reddit.com/user/callicoder">
-  <img alt="Nishanth's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+<a href="https://www.reddit.com/user/nishanth4445">
+  <img alt="Nishanth's Reddit" width="24px" src="https://www.vectorico.com/wp-content/uploads/2018/08/Reddit-logo-300x300.png" />
 </a> &nbsp;
 <a href="https://www.facebook.com/rajeevhub/">
-  <img alt="Nishanth's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img alt="Nishanth's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>  &nbsp;
-<a href="https://instagram.com/rajeevhub/">
-  <img alt="Nishanth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://instagram.com/nishanth.07/">
+  <img alt="Nishanth's Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
 <br/>
 <br/>
@@ -28,10 +28,9 @@
 
 [![Twitter follow @nishanth4128](https://img.shields.io/twitter/follow/nishanth4128?style=social)](https://twitter.com/nishanth4128) &nbsp;
 [![Linkedin follow @pnishanth](https://img.shields.io/badge/-pnishanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pnishanth/)](https://www.linkedin.com/in/pnishanth/) &nbsp;
-<!---
-[![Reddit follow @callicoder](https://img.shields.io/reddit/user-karma/link/callicoder?label=callicoder&style=social)](https://www.reddit.com/user/callicoder) &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-callicoder.com-brightgreen)](https://www.callicoder.com)
---->
+[![Reddit follow @nishanth4445](https://img.shields.io/reddit/user-karma/link/nishanth4445?label=nishanth4445&style=social)](https://www.reddit.com/user/nishanth4445) &nbsp;
+[![Blog](https://img.shields.io/badge/Blog-nishanth4128.com-brightgreen)](https://www.nishanth4128.wordpress.com)
+
 **Languages and Tools:**  
 
 <a href="https://github.com/Nishanthnishu">
