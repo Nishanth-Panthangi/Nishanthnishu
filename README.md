@@ -13,7 +13,7 @@
   <img alt="Nishanth's Reddit" width="24px" src="https://www.vectorico.com/wp-content/uploads/2018/08/Reddit-logo-300x300.png" />
 </a> &nbsp;
 <a href="https://www.facebook.com/rajeevhub/">
-  <img alt="Nishanth's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img alt="Nishanth's Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
 </a>  &nbsp;
 <a href="https://instagram.com/nishanth.07/">
   <img alt="Nishanth's Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
