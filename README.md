@@ -22,9 +22,15 @@
 <br/>
 
 - 🔭 I’m currently working as Software Devlopment Engineer at HyScale.
-- 🌱 I’m currently learning stuff related to Data Science.
+- 🌱 I’m currently learning stuff related to Machine Learning.
 - 💬 Ask me about Java, Python, Docker, Kubernetes & Design Patterns or any tech related stuff.
-- 😄 Will update more soon!
+- 😄 I take joy in the process and purity behind writing design and code for software products that make an impact.
+- 😎 Gained a lot of insight on the challenges involved in the journey of building a software product from scratch.
+- 💪 Had a great learning curve, working on an Open Source Project. Do check my contributions & give a star If you like something! :)
+
+Always Curious to find ways that help in translating impactful ideas to products.
+Constantly trying to explore new grounds in my field of expertise.
+I would love to mentor students with aspirations for better life and career. You can reach me out through email!
 
 [![Twitter follow @nishanth4128](https://img.shields.io/twitter/follow/nishanth4128?style=social)](https://twitter.com/nishanth4128) &nbsp;
 [![Linkedin follow @pnishanth](https://img.shields.io/badge/-pnishanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pnishanth/)](https://www.linkedin.com/in/pnishanth/) &nbsp;
