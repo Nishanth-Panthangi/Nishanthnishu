@@ -35,7 +35,7 @@ I would love to mentor students with aspirations for better life and career. You
 [![Twitter follow @nishanth4128](https://img.shields.io/twitter/follow/nishanth4128?style=social)](https://twitter.com/nishanth4128) &nbsp;
 [![Linkedin follow @nishanth-7](https://img.shields.io/badge/-nishanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishanth-7/)](https://www.linkedin.com/in/pnishanth/) &nbsp;
 [![Reddit follow @nishanth4445](https://img.shields.io/reddit/user-karma/link/nishanth4445?label=nishanth4445&style=social)](https://www.reddit.com/user/nishanth4445) &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-nishanth.hashnode.dev-brightgreen)](https://www.nishanth.hashnode.dev)
+[![Blog](https://img.shields.io/badge/Blog-nishanth.hashnode.dev-brightgreen)](https://nishanth.hashnode.dev)
 
 **Languages and Tools:**  
 
